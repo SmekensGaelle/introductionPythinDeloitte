@@ -1,2 +1,4 @@
-print("Hello it's me")
-print("I've been wondering if after all this time you'd like to meet again because it didn't work")
+import pandas as pd
+
+s = pd.Series([1,2,3])
+print(s)
